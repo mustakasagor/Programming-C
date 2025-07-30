@@ -1,1 +1,2 @@
-# Programming-C
+# PPS-Lab
+Manav Rachna University
